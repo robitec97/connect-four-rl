@@ -4,7 +4,7 @@
 #include <limits.h> // For INT_MAX
 
 #include "defines.h"
-#include "connect4.h"
+#include "connectfour.h"
 #include "mcts.h"
 
 // Helper to get integer input safely
